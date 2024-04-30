@@ -1,4 +1,5 @@
-
+(https://github.com/Nishat-Rahman-web/Nishat-Rahman-web/blob/main/![nr](https://github.com/Nishat-Rahman-web/Nishat-Rahman-web/assets/168478182/627ce328-6ebe-412d-bd9d-4894160b0ffe)
+)
 
 <h1 align="center">Hi 👋, This is Nishat Rahman. Welcome to my GitHub profile.</h1>
 <h2 align="center"><b>React Developer</b></h2>
@@ -30,6 +31,7 @@
 
 <p align="left">
 <a href="https://web.facebook.com/nishatrahman.webdeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nishat-Rahman-web" height="30" width="40" /></a>
+<a href="https://instagram.com/Nishat-Rahman.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nishat-Rahman.web" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/nishat-rahman-09a48b301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nishat-Rahman-web" height="30" width="40" /></a>
 
 </p>
@@ -89,4 +91,5 @@
 <a href="https://web.facebook.com/nishatrahman.webdeveloper/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
+
 </div>
