@@ -23,7 +23,7 @@
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, ReactJS**
 
 - 📫 How to reach me **nishatrahman.webdeveloper@gmail.com**
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,7 +35,7 @@
 </p>
 
 ## Use To Code
-
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
