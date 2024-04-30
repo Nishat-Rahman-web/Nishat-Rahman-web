@@ -1,7 +1,3 @@
-<img align="left" alt="coding" width="400" src="![nr](https://github.com/Nishat-Rahman-web/Nishat-Rahman-web/assets/168478182/8585b4be-3fc1-4e4c-97d4-0f21fecbb93c)
-">
-
-
 <h1 align="center">Hi 👋, This is Nishat Rahman. Welcome to my GitHub profile.</h1>
 <h2 align="center"><b>React Developer</b></h2>
 
