@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, This is Nishat Rahman. Welcome to my GitHub profile.</h1>
 <h2 align="center"><b>React Developer</b></h2>
 
-
 <div align="center">
-
-
 
 <h2><b>Skills : HTML / CSS / JavaScript / Bootstrap / React / Tailwind CSS / C / C++ / Python</b></h2>
 
@@ -16,13 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nishat-Rahman-web](https://github.com/Nishat-Rahman-web)
 
-
-
 - 💬 Ask me about **HTML, CSS, JS, Bootstrap, ReactJS**
 
 - 📫 How to reach me **nishatrahman.webdeveloper@gmail.com**
-
-
 
 <h3 align="left">Connect with me:</h3>
 
